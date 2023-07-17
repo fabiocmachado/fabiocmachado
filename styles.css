@@ -14,9 +14,19 @@ body{
     color: #52524E;
 }
 
-
 h1{
     text-align: center;
+}
+
+.hobbies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+.link1{
+    display: flex;
+    justify-content: center;
 }
 
 footer p{
